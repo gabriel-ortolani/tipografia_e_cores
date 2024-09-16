@@ -1,7 +1,7 @@
 # tipografia_e_cores
 # Site que não segue a tipografia
 Site: Carros na Web <a href="https://www.carrosnaweb.com.br/" target="_blank">(https://www.carrosnaweb.com.br/)</a>
-<img align="left" height="420" 
+<img align="left" height="460" 
   src="https://github.com/gabriel-ortolani/tipografia_e_cores/blob/main/site_nãoSegue-tipografia.png"/>
   
 Desvantagens: 
