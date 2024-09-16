@@ -19,7 +19,7 @@ Como é possível resolver os problemas?
 - Fazendo uma melhor organização;
 - Colocando explicito apenas o necessário;
 - Por mais imagens;
-# Site que segue a tipogradfia
+# Site que segue a tipografia
 
 Site: Super Bom  <a href="https://www.redesuperbom.com.br" target="_blank">(https://www.redesuperbom.com.br)</a>
 <img align="left" height="420" width="550"
