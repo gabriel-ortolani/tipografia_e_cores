@@ -30,7 +30,9 @@ Vantagens:
 - Fácil visualização dos produtos
 - Todos os produtos estão alinhados em armonia tornando menos massante a visualização do site
 - As cores e imagens contratando perfeitamente com a cor do fundo e do site em si
+
 Desvantagem:
+
 O site não apresenta nenhum desvantagem sendo bem organizado e planejado e seguindo toda a tipografica adequada.
 
 
