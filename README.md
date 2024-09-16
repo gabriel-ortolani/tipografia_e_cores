@@ -22,7 +22,7 @@ Como é possível resolver os problemas?
 # Site que segue a tipografia
 
 Site: Super Bom  <a href="https://www.redesuperbom.com.br" target="_blank">(https://www.redesuperbom.com.br)</a>
-<img align="left" height="440" width="550"
+<img align="left" height="450" width="550"
   src="https://github.com/gabriel-ortolani/tipografia_e_cores/blob/main/site_segue-tipografia.png"/>
   
 Vantagens:
