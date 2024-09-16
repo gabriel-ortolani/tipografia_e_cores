@@ -1,6 +1,6 @@
 # tipografia_e_cores
 # Site que não segue a tipografia
-Site: Carros na Web (https://www.carrosnaweb.com.br/)
+Site: Carros na Web <a href="https://www.carrosnaweb.com.br/" target="_blank">(https://www.carrosnaweb.com.br/)</a>
 <img align="left" height="420" 
   src="https://github.com/gabriel-ortolani/tipografia_e_cores/blob/main/site_nãoSegue-tipografia.png"/>
   
@@ -20,7 +20,8 @@ Como é possível resolver os problemas?
 - Colocando explicito apenas o necessário;
 - Por mais imagens;
 # Site que segue a tipogradfia
-Site: Super Bom  (https://www.redesuperbom.com.br)
+
+Site: Super Bom  <a href="https://www.redesuperbom.com.br" target="_blank">(https://www.redesuperbom.com.br)</a>
 <img align="left" height="420" width="550"
   src="https://github.com/gabriel-ortolani/tipografia_e_cores/blob/main/site_segue-tipografia.png"/>
   
